@@ -1,0 +1,127 @@
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\bin\Debug\Trabajo final.pdb
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csprojAssemblyReference.cache
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form1.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoUsuarios.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.exe
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.pdb
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoEmpleados.resources
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\bin\Debug\Trabajo final.exe
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\bin\Debug\Trabajo final.pdb
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo final.csprojAssemblyReference.cache
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form1.resources
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoEmpleados.resources
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoUsuarios.resources
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo final.exe
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo final.pdb
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantimentoClientes.resources
+C:\Users\Radalv11\Desktop\trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientosSuplidores.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientosSuplidores.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantimentoClientes.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\bin\Debug\Trabajo final.pdb
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csprojAssemblyReference.cache
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form1.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Login.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoEmpleados.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientosSuplidores.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoUsuarios.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantimentoClientes.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CopyComplete
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.exe
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.pdb
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Equipo_y_servicios.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaUsuario.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEmpleado.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaCliente.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaSuplidores.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEquipo.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaCliente.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEmpleado.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEquipo.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaSuplidores.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaUsuario.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Equipo_y_servicios.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Login.resources
+C:\Users\Emely\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CopyComplete
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\bin\Debug\Trabajo final.pdb
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csprojAssemblyReference.cache
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaCliente.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEmpleado.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEquipo.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaSuplidores.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaUsuario.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Equipo_y_servicios.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form1.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Login.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoEmpleados.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientosSuplidores.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoUsuarios.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantimentoClientes.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CopyComplete
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.exe
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo final.pdb
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaConduces.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaConduces.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Facturación_de_Servicios.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Facturación_de_Servicios.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaHistorial.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaHistorial.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaPagos.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaPagos.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaCompras.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaFacturas.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaCompras.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaFacturas.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Proceso_de_conduces.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.BackUp.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.BackUp.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Proceso_de_conduces.resources
+C:\Users\Emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Proceso_compras.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Proceso_compras.resources
+C:\Users\emely\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.proceso_pagos.resources
+C:\Users\Radalv11\Google Drive\Trabajo final\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.proceso_pagos.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.AssemblyReference.cache
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.BackUp.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaCliente.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaCompras.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaConduces.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEmpleado.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaEquipo.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaFacturas.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaHistorial.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaPagos.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaSuplidores.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.ConsultaUsuario.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Equipo_y_servicios.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Facturación_de_Servicios.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form1.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Login.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoEmpleados.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientosSuplidores.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantenimientoUsuarios.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.MantimentoClientes.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Proceso_de_conduces.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Proceso_compras.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.proceso_pagos.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CopyComplete
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo final.exe
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\obj\Debug\Trabajo final.pdb
+C:\Users\Radalv11\Desktop\base de datos\Trabajo final-20220510T222423Z-001\Trabajo final\Trabajo final\bin\Debug\Trabajo final.pdb
